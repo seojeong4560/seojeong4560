@@ -9,7 +9,7 @@
 <br/>
 2017.03 ~ 2022.02 경북대학교 전자공학부 졸업
 <br/>
-2022.08 ~ 2023.06 삼성청년 소프트 웨어 아카데미 8기 재학 중
+2022.08 ~ 2023.06 삼성 청년 SW 아카데미 8기 재학 중
 <br><br> <div align="center">
 :hammer_and_wrench: Teck Stack :hammer_and_wrench:<br><br>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
