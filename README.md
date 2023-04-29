@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YangYang&fontSize=60" /><br>
 </div>
 
-
 이름 : 양서정
 
 2014.03 ~ 2017.02 제주중앙여자고등학교 졸업
